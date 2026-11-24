@@ -1,0 +1,11 @@
+{
+  "name": "conectores-cladue",
+  "owner": { "name": "leonardocdell-hash" },
+  "plugins": [
+    {
+      "name": "dental-ai-skills",
+      "source": "./plugins/dental-ai-skills",
+      "description": "Skills de evidência odontológica: busca, avaliação crítica, GRADE e auditoria estatística"
+    }
+  ]
+}
